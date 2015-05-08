@@ -1,8 +1,4 @@
 this is a test file
 this commit is from branch dev
 hfkafkah    dev-add-str
-<<<<<<< HEAD
 test2  branch-master-str
-=======
-test2 branch-dev-str
->>>>>>> dev
